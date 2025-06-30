@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ec968c40b29fcf4c83d46b502758cf5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rain: {instanceID: 0}
+  - endPanel: {instanceID: 0}
+  - MrainPrefab: {instanceID: 0}
+  - totalScoreTxt: {instanceID: 0}
+  - timeTxt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
