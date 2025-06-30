@@ -36,7 +36,7 @@ public class Rain : MonoBehaviour
         }
         else if (type == 3)
         {
-            size = 1.2f;
+            size = 1.5f;//큰 빗방울 크기증가(이진영)
             score = 3;
             renderer.color = new Color(150 / 255f, 150 / 255f, 1f, 1f);
         }
